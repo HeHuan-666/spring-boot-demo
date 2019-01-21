@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @description:
+ * @description: RESTfull API简单项目的快速搭建
  * @author: lishengdong
  * @create: 2019/1/21 15:45
  */
