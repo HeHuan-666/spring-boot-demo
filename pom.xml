@@ -10,7 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>spring-boot-demo-01-1-quick</module>
+        <module>spring-boot-01-quick</module>
+        <module>spring-boot-02-profile</module>
+        <module>spring-boot-03-MQ</module>
     </modules>
 
 
