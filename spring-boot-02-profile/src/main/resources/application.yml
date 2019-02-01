@@ -5,7 +5,6 @@ spring:
   profiles:
     active: prod
 
-
 ---
 # Document 2 文档块
 server:
