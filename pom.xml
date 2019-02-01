@@ -12,7 +12,7 @@
     <modules>
         <module>spring-boot-01-quick</module>
         <module>spring-boot-02-profile</module>
-        <module>spring-boot-03-MQ</module>
+        <module>spring-boot-03-mq</module>
     </modules>
 
 
