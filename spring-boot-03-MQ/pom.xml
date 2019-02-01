@@ -9,9 +9,10 @@
         <relativePath/>
     </parent>
     <groupId>com.lsd</groupId>
-    <artifactId>spring-boot-03-mq-rabbitmq</artifactId>
+    <artifactId>spring-boot-03-MQ</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-03-mq-rabbitmq</name>
+    <packaging>pom</packaging>
+    <name>spring-boot-03-MQ</name>
     <description>常用消息队列示例</description>
 
     <properties>
