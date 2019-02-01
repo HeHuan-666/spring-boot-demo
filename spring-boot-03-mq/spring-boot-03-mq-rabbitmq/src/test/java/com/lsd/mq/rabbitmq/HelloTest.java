@@ -19,7 +19,7 @@ public class HelloTest {
     private HelloSender helloSender;
 
     @Test
-    public void hello() throws Exception {
+    public void hello() {
         helloSender.send();
     }
 }
