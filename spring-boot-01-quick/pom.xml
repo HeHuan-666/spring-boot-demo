@@ -9,9 +9,9 @@
         <relativePath/>
     </parent>
     <groupId>com.lsd</groupId>
-    <artifactId>spring-boot-demo-01-1-quick</artifactId>
+    <artifactId>spring-boot-01-quick</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-demo-01-1-quick</name>
+    <name>spring-boot-01-quick</name>
     <description>RESTfull API简单项目的快速搭建</description>
 
     <properties>

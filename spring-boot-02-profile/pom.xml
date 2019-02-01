@@ -9,9 +9,9 @@
         <relativePath/>
     </parent>
     <groupId>com.lsd</groupId>
-    <artifactId>spring-boot-demo-02-profile</artifactId>
+    <artifactId>spring-boot-02-profile</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-demo-02-profile</name>
+    <name>spring-boot-02-profile</name>
     <description>profile支持不同环境配置</description>
 
     <properties>
