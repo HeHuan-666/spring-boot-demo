@@ -22,6 +22,16 @@ public class MessageEntity implements Serializable {
         this.context = "消息内容，时间戳为：" + new Date();
     }
 
+    public MessageEntity(Long messgeId) {
+        this.messgeId = messgeId;
+        this.context = "消息内容，时间戳为：" + new Date();
+    }
+
+    public MessageEntity(Long messgeId, String context) {
+        this.messgeId = messgeId;
+        this.context = context;
+    }
+
     public Long getMessgeId() {
         return messgeId;
     }
